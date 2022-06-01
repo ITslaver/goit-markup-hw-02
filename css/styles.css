@@ -5,11 +5,11 @@
 
 
 body {
-    /* color:#212121; */
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    letter-spacing: 0.03em;
-    color: #757575;
+ /* color:#212121; */
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+letter-spacing: 0.03em;
+color: #757575;
 }
 
 .list {
@@ -99,6 +99,8 @@ text-transform: uppercase;
 color: #FFFFFF;
 }
 .services-btn {
+font-family: 'Roboto';
+font-style: normal;
 color: #FFFFFF;
 /* color: #212121; */
 background-color: #F5F4FA;
